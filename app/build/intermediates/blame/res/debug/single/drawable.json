@@ -1,0 +1,386 @@
+[
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_menu.png",
+        "source": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\src\\main\\res\\drawable\\icon_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\325065b5123a9883bab7f8004b2c49487c6c8372\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_logo.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\5573499e080fcab2d0006d09482914ad440c541c\\output\\res\\drawable\\com_facebook_button_login_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\material_card.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\145925b5bd87ea455138a033f21d692d61a10e66\\output\\res\\drawable\\material_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_historico.png",
+        "source": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\src\\main\\res\\drawable\\icon_historico.png"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\325065b5123a9883bab7f8004b2c49487c6c8372\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_icon.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\5573499e080fcab2d0006d09482914ad440c541c\\output\\res\\drawable\\com_facebook_button_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_header_background.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\5573499e080fcab2d0006d09482914ad440c541c\\output\\res\\drawable\\com_facebook_auth_dialog_header_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\325065b5123a9883bab7f8004b2c49487c6c8372\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_background.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\5573499e080fcab2d0006d09482914ad440c541c\\output\\res\\drawable\\com_facebook_auth_dialog_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\getfun.png",
+        "source": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\src\\main\\res\\drawable\\getfun.png"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_variant.png",
+        "source": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\src\\main\\res\\drawable\\icon_variant.png"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_back_48.png",
+        "source": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\src\\main\\res\\drawable\\icon_back_48.png"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\person_2.jpg",
+        "source": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\src\\main\\res\\drawable\\person_2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\material_card_nos.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\145925b5bd87ea455138a033f21d692d61a10e66\\output\\res\\drawable\\material_card_nos.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\material_card_nos_pressed.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\145925b5bd87ea455138a033f21d692d61a10e66\\output\\res\\drawable\\material_card_nos_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_add.png",
+        "source": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\src\\main\\res\\drawable\\icon_add.png"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_gps.png",
+        "source": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\src\\main\\res\\drawable\\icon_gps.png"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\5573499e080fcab2d0006d09482914ad440c541c\\output\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_favicon_blue.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\5573499e080fcab2d0006d09482914ad440c541c\\output\\res\\drawable\\com_facebook_favicon_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\5573499e080fcab2d0006d09482914ad440c541c\\output\\res\\drawable\\messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_lupa_24.png",
+        "source": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\src\\main\\res\\drawable\\icon_lupa_24.png"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_remove.png",
+        "source": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\src\\main\\res\\drawable\\icon_remove.png"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_cancel_background.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\5573499e080fcab2d0006d09482914ad440c541c\\output\\res\\drawable\\com_facebook_auth_dialog_cancel_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\person_1.jpg",
+        "source": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\src\\main\\res\\drawable\\person_1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\person_4.jpg",
+        "source": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\src\\main\\res\\drawable\\person_4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\5573499e080fcab2d0006d09482914ad440c541c\\output\\res\\drawable\\messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.jpg",
+        "source": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\src\\main\\res\\drawable\\background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toolbar_rounded_corners.xml",
+        "source": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\src\\main\\res\\drawable\\toolbar_rounded_corners.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_login.jpg",
+        "source": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\src\\main\\res\\drawable\\background_login.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_mask.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\fea2f30b958120534e78fc4b6ef6f41770ff0c4e\\output\\res\\drawable\\circle_mask.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\material_dialog_window.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\145925b5bd87ea455138a033f21d692d61a10e66\\output\\res\\drawable\\material_dialog_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_settings.png",
+        "source": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\src\\main\\res\\drawable\\icon_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rodrigo.jpg",
+        "source": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\src\\main\\res\\drawable\\rodrigo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_facebook.png",
+        "source": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\src\\main\\res\\drawable\\login_facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\5573499e080fcab2d0006d09482914ad440c541c\\output\\res\\drawable\\com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_profile.png",
+        "source": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\src\\main\\res\\drawable\\icon_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\5573499e080fcab2d0006d09482914ad440c541c\\output\\res\\drawable\\messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_filter.png",
+        "source": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\src\\main\\res\\drawable\\icon_filter.png"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image_view_round_top_corners.xml",
+        "source": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\src\\main\\res\\drawable\\image_view_round_top_corners.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\5573499e080fcab2d0006d09482914ad440c541c\\output\\res\\drawable\\com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\viashow.jpg",
+        "source": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\src\\main\\res\\drawable\\viashow.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_lupa_36.png",
+        "source": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\src\\main\\res\\drawable\\icon_lupa_36.png"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_checkin.png",
+        "source": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\src\\main\\res\\drawable\\icon_checkin.png"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_background.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\5573499e080fcab2d0006d09482914ad440c541c\\output\\res\\drawable\\com_facebook_button_login_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_back_24.png",
+        "source": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\src\\main\\res\\drawable\\icon_back_24.png"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\5573499e080fcab2d0006d09482914ad440c541c\\output\\res\\drawable\\com_facebook_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_history.png",
+        "source": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\src\\main\\res\\drawable\\icon_history.png"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blueshow.jpg",
+        "source": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\src\\main\\res\\drawable\\blueshow.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_event.png",
+        "source": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\src\\main\\res\\drawable\\icon_event.png"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\person_3.jpg",
+        "source": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\src\\main\\res\\drawable\\person_3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_search.png",
+        "source": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\src\\main\\res\\drawable\\icon_search.png"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kingshow.jpg",
+        "source": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\src\\main\\res\\drawable\\kingshow.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_send_background.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\5573499e080fcab2d0006d09482914ad440c541c\\output\\res\\drawable\\com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_send_button_icon.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\5573499e080fcab2d0006d09482914ad440c541c\\output\\res\\drawable\\com_facebook_send_button_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_lupa_48.png",
+        "source": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\src\\main\\res\\drawable\\icon_lupa_48.png"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_back_36.png",
+        "source": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\src\\main\\res\\drawable\\icon_back_36.png"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button.xml",
+        "source": "C:\\Users\\TRON\\.android\\build-cache\\145925b5bd87ea455138a033f21d692d61a10e66\\output\\res\\drawable\\button.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_perfil.png",
+        "source": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\src\\main\\res\\drawable\\icon_perfil.png"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\erro.jpg",
+        "source": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\src\\main\\res\\drawable\\erro.jpg"
+    }
+]

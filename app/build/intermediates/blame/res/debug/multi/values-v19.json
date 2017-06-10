@@ -1,0 +1,171 @@
+[
+    {
+        "outputFile": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v19\\values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 50,
+                    "endOffset": 101
+                },
+                "from": {
+                    "file": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\src\\main\\res\\values-v19\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 50,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 106,
+                    "endColumn": 51,
+                    "endOffset": 153
+                },
+                "from": {
+                    "file": "C:\\Users\\TRON\\.android\\build-cache\\fea2f30b958120534e78fc4b6ef6f41770ff0c4e\\output\\res\\values-v19\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 213,
+                        "endColumn": 51,
+                        "endOffset": 260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 158,
+                    "endLine": 6,
+                    "endColumn": 12,
+                    "endOffset": 337
+                },
+                "from": {
+                    "file": "C:\\Users\\TRON\\.android\\build-cache\\fea2f30b958120534e78fc4b6ef6f41770ff0c4e\\output\\res\\values-v19\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 423,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 602
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 342,
+                    "endLine": 9,
+                    "endColumn": 12,
+                    "endOffset": 533
+                },
+                "from": {
+                    "file": "C:\\Users\\TRON\\.android\\build-cache\\fea2f30b958120534e78fc4b6ef6f41770ff0c4e\\output\\res\\values-v19\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 607,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 798
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 538,
+                    "endLine": 12,
+                    "endColumn": 12,
+                    "endOffset": 753
+                },
+                "from": {
+                    "file": "C:\\Users\\TRON\\.android\\build-cache\\fea2f30b958120534e78fc4b6ef6f41770ff0c4e\\output\\res\\values-v19\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 803,
+                        "endLine": 15,
+                        "endColumn": 12,
+                        "endOffset": 1018
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 758,
+                    "endLine": 15,
+                    "endColumn": 12,
+                    "endOffset": 953
+                },
+                "from": {
+                    "file": "C:\\Users\\TRON\\.android\\build-cache\\fea2f30b958120534e78fc4b6ef6f41770ff0c4e\\output\\res\\values-v19\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1023,
+                        "endLine": 18,
+                        "endColumn": 12,
+                        "endOffset": 1218
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 958,
+                    "endLine": 18,
+                    "endColumn": 12,
+                    "endOffset": 1129
+                },
+                "from": {
+                    "file": "C:\\Users\\TRON\\.android\\build-cache\\fea2f30b958120534e78fc4b6ef6f41770ff0c4e\\output\\res\\values-v19\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1223,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 1394
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1134,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 1293
+                },
+                "from": {
+                    "file": "C:\\Users\\TRON\\.android\\build-cache\\fea2f30b958120534e78fc4b6ef6f41770ff0c4e\\output\\res\\values-v19\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1399,
+                        "endLine": 24,
+                        "endColumn": 12,
+                        "endOffset": 1558
+                    }
+                }
+            }
+        ]
+    }
+]

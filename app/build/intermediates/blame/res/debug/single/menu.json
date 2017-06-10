@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_bottom.xml",
+        "source": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\src\\main\\res\\menu\\menu_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_event_activity.xml",
+        "source": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\src\\main\\res\\menu\\menu_event_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_config.xml",
+        "source": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\src\\main\\res\\menu\\menu_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_searchable_activity.xml",
+        "source": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\src\\main\\res\\menu\\menu_searchable_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_scrolling.xml",
+        "source": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\src\\main\\res\\menu\\menu_scrolling.xml"
+    }
+]

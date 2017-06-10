@@ -1,0 +1,709 @@
+[
+    {
+        "outputFile": "C:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 469
+                },
+                "from": {
+                    "file": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 474,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 894
+                },
+                "from": {
+                    "file": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 474,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 894
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 899,
+                    "endLine": 19,
+                    "endColumn": 12,
+                    "endOffset": 1322
+                },
+                "from": {
+                    "file": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 899,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 1322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1327,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1748
+                },
+                "from": {
+                    "file": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1327,
+                        "endLine": 25,
+                        "endColumn": 12,
+                        "endOffset": 1748
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1753,
+                    "endLine": 31,
+                    "endColumn": 12,
+                    "endOffset": 2175
+                },
+                "from": {
+                    "file": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1753,
+                        "endLine": 31,
+                        "endColumn": 12,
+                        "endOffset": 2175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2180,
+                    "endLine": 37,
+                    "endColumn": 12,
+                    "endOffset": 2600
+                },
+                "from": {
+                    "file": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2180,
+                        "endLine": 37,
+                        "endColumn": 12,
+                        "endOffset": 2600
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2605,
+                    "endColumn": 88,
+                    "endOffset": 2689
+                },
+                "from": {
+                    "file": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2605,
+                        "endColumn": 88,
+                        "endOffset": 2689
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2694,
+                    "endLine": 42,
+                    "endColumn": 12,
+                    "endOffset": 2935
+                },
+                "from": {
+                    "file": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2694,
+                        "endLine": 42,
+                        "endColumn": 12,
+                        "endOffset": 2935
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2940,
+                    "endLine": 46,
+                    "endColumn": 12,
+                    "endOffset": 3184
+                },
+                "from": {
+                    "file": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2940,
+                        "endLine": 46,
+                        "endColumn": 12,
+                        "endOffset": 3184
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 3189,
+                    "endColumn": 100,
+                    "endOffset": 3285
+                },
+                "from": {
+                    "file": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 3189,
+                        "endColumn": 100,
+                        "endOffset": 3285
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 3290,
+                    "endLine": 51,
+                    "endColumn": 12,
+                    "endOffset": 3537
+                },
+                "from": {
+                    "file": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 3290,
+                        "endLine": 51,
+                        "endColumn": 12,
+                        "endOffset": 3537
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 3542,
+                    "endLine": 55,
+                    "endColumn": 12,
+                    "endOffset": 3792
+                },
+                "from": {
+                    "file": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 3542,
+                        "endLine": 55,
+                        "endColumn": 12,
+                        "endOffset": 3792
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 3797,
+                    "endColumn": 102,
+                    "endOffset": 3895
+                },
+                "from": {
+                    "file": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 3797,
+                        "endColumn": 102,
+                        "endOffset": 3895
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 3900,
+                    "endLine": 60,
+                    "endColumn": 12,
+                    "endOffset": 4148
+                },
+                "from": {
+                    "file": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 3900,
+                        "endLine": 60,
+                        "endColumn": 12,
+                        "endOffset": 4148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 4153,
+                    "endLine": 65,
+                    "endColumn": 12,
+                    "endOffset": 4556
+                },
+                "from": {
+                    "file": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 4153,
+                        "endLine": 65,
+                        "endColumn": 12,
+                        "endOffset": 4556
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 4561,
+                    "endLine": 70,
+                    "endColumn": 12,
+                    "endOffset": 4976
+                },
+                "from": {
+                    "file": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 4561,
+                        "endLine": 70,
+                        "endColumn": 12,
+                        "endOffset": 4976
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 4981,
+                    "endLine": 75,
+                    "endColumn": 12,
+                    "endOffset": 5398
+                },
+                "from": {
+                    "file": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 4981,
+                        "endLine": 75,
+                        "endColumn": 12,
+                        "endOffset": 5398
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 5403,
+                    "endLine": 77,
+                    "endColumn": 12,
+                    "endOffset": 5505
+                },
+                "from": {
+                    "file": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 5403,
+                        "endLine": 77,
+                        "endColumn": 12,
+                        "endOffset": 5505
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 5510,
+                    "endLine": 79,
+                    "endColumn": 12,
+                    "endOffset": 5634
+                },
+                "from": {
+                    "file": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 5510,
+                        "endLine": 79,
+                        "endColumn": 12,
+                        "endOffset": 5634
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 5639,
+                    "endLine": 85,
+                    "endColumn": 12,
+                    "endOffset": 5934
+                },
+                "from": {
+                    "file": "C:\\Users\\TRON\\.android\\build-cache\\fea2f30b958120534e78fc4b6ef6f41770ff0c4e\\output\\res\\values-v11\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 213,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 508
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 5939,
+                    "endLine": 89,
+                    "endColumn": 12,
+                    "endOffset": 6230
+                },
+                "from": {
+                    "file": "C:\\Users\\TRON\\.android\\build-cache\\fea2f30b958120534e78fc4b6ef6f41770ff0c4e\\output\\res\\values-v11\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 513,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 804
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 6235,
+                    "endLine": 94,
+                    "endColumn": 12,
+                    "endOffset": 6548
+                },
+                "from": {
+                    "file": "C:\\Users\\TRON\\.android\\build-cache\\fea2f30b958120534e78fc4b6ef6f41770ff0c4e\\output\\res\\values-v11\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 809,
+                        "endLine": 18,
+                        "endColumn": 12,
+                        "endOffset": 1122
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 6553,
+                    "endLine": 100,
+                    "endColumn": 12,
+                    "endOffset": 6872
+                },
+                "from": {
+                    "file": "C:\\Users\\TRON\\.android\\build-cache\\fea2f30b958120534e78fc4b6ef6f41770ff0c4e\\output\\res\\values-v11\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1127,
+                        "endLine": 24,
+                        "endColumn": 12,
+                        "endOffset": 1446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 6877,
+                    "endLine": 104,
+                    "endColumn": 12,
+                    "endOffset": 7180
+                },
+                "from": {
+                    "file": "C:\\Users\\TRON\\.android\\build-cache\\fea2f30b958120534e78fc4b6ef6f41770ff0c4e\\output\\res\\values-v11\\values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1451,
+                        "endLine": 28,
+                        "endColumn": 12,
+                        "endOffset": 1754
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 7185,
+                    "endLine": 113,
+                    "endColumn": 12,
+                    "endOffset": 7626
+                },
+                "from": {
+                    "file": "C:\\Users\\TRON\\.android\\build-cache\\fea2f30b958120534e78fc4b6ef6f41770ff0c4e\\output\\res\\values-v11\\values.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1759,
+                        "endLine": 37,
+                        "endColumn": 12,
+                        "endOffset": 2200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 7631,
+                    "endLine": 118,
+                    "endColumn": 12,
+                    "endOffset": 7956
+                },
+                "from": {
+                    "file": "C:\\Users\\TRON\\.android\\build-cache\\fea2f30b958120534e78fc4b6ef6f41770ff0c4e\\output\\res\\values-v11\\values.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2205,
+                        "endLine": 42,
+                        "endColumn": 12,
+                        "endOffset": 2530
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 7961,
+                    "endLine": 122,
+                    "endColumn": 12,
+                    "endOffset": 8144
+                },
+                "from": {
+                    "file": "C:\\Users\\TRON\\.android\\build-cache\\fea2f30b958120534e78fc4b6ef6f41770ff0c4e\\output\\res\\values-v11\\values.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2535,
+                        "endLine": 46,
+                        "endColumn": 12,
+                        "endOffset": 2718
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 8149,
+                    "endLine": 126,
+                    "endColumn": 12,
+                    "endOffset": 8344
+                },
+                "from": {
+                    "file": "C:\\Users\\TRON\\.android\\build-cache\\fea2f30b958120534e78fc4b6ef6f41770ff0c4e\\output\\res\\values-v11\\values.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 2723,
+                        "endLine": 50,
+                        "endColumn": 12,
+                        "endOffset": 2918
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 8349,
+                    "endLine": 130,
+                    "endColumn": 12,
+                    "endOffset": 8568
+                },
+                "from": {
+                    "file": "C:\\Users\\TRON\\.android\\build-cache\\fea2f30b958120534e78fc4b6ef6f41770ff0c4e\\output\\res\\values-v11\\values.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 2923,
+                        "endLine": 54,
+                        "endColumn": 12,
+                        "endOffset": 3142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 8573,
+                    "endColumn": 70,
+                    "endOffset": 8639
+                },
+                "from": {
+                    "file": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 5639,
+                        "endColumn": 70,
+                        "endOffset": 5705
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 8644,
+                    "endColumn": 82,
+                    "endOffset": 8722
+                },
+                "from": {
+                    "file": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 5710,
+                        "endColumn": 82,
+                        "endOffset": 5788
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 8727,
+                    "endLine": 186,
+                    "endColumn": 12,
+                    "endOffset": 12747
+                },
+                "from": {
+                    "file": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 5793,
+                        "endLine": 135,
+                        "endColumn": 12,
+                        "endOffset": 9813
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 187,
+                    "startColumn": 4,
+                    "startOffset": 12752,
+                    "endLine": 241,
+                    "endColumn": 12,
+                    "endOffset": 16915
+                },
+                "from": {
+                    "file": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 136,
+                        "startColumn": 4,
+                        "startOffset": 9818,
+                        "endLine": 190,
+                        "endColumn": 12,
+                        "endOffset": 13981
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 242,
+                    "startColumn": 4,
+                    "startOffset": 16920,
+                    "endColumn": 90,
+                    "endOffset": 17006
+                },
+                "from": {
+                    "file": "C:\\Users\\TRON\\.android\\build-cache\\50476dfed1545c0020d5f473e2f34c6ea9af3d8b\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 191,
+                        "startColumn": 4,
+                        "startOffset": 13986,
+                        "endColumn": 90,
+                        "endOffset": 14072
+                    }
+                }
+            }
+        ]
+    }
+]

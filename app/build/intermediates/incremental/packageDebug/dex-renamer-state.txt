@@ -1,0 +1,7 @@
+#Sat Jun 10 01:25:06 GMT-03:00 2017
+base.0=C\:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_23e826a0b2f8f850f59aa1786c9ee025af7b756b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b764f33f27f9820e5720cb117443ff7b469106d8\\classes.dex
+base.1=C\:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b764f33f27f9820e5720cb117443ff7b469106d8
+file.0=C\:\\Users\\TRON\\Desktop\\Codigo Fonte - GetFun\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_23e826a0b2f8f850f59aa1786c9ee025af7b756b\\classes.dex
